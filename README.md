@@ -1,5 +1,5 @@
 # Path planning self driving
-We will create a map from the reality and put a diferential robot in there with the aim to use an path planning algorith through reinforecement learning (PPO)
+This project creates a map from the reality and put a diferential robot in there with the aim to use an path planning algorith through reinforecement learning (PPO)
 
 # We will need the following libraries in python3.5
 1. Tensorflow 1.6 >=
